@@ -6,9 +6,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["KINGJP500"]
   spec.email         = ["kingjpstar500@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific methods for application i use.}
+  spec.description   = %q{Provides generated HTML data for Rails applications.}
+  spec.homepage      = "https://legytdreams.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
