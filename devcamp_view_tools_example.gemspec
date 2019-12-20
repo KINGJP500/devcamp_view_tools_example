@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for application i use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "https://legytdreams.com"
+  spec.homepage      = "https://github.com/KINGJP500/devcamp_view_tools_example"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/KINGJP500/devcamp_view_tools_example"
-  spec.metadata["changelog_uri"] = " https://github.com/KINGJP500/devcamp_view_tools_example/edit/master/README.md"
+  spec.metadata["changelog_uri"] = " https://github.com/KINGJP500//devcamp_view_tools_example/blob/master/CODE_OF_CONDUCT.md"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
